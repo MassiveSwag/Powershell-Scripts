@@ -2,7 +2,9 @@
 
 .NAME
     Lincoln Call Logs
-
+.DESCRIPTION
+    This script utilizes Windows forms to display Lincoln call logs. You can choose the date and all calls for that date will display.
+    On the right hand side you are allowed to search the current displayed records and find macthing records based on your search critia.
 #>
 
 # .Net methods for hiding/showing the console in the background
